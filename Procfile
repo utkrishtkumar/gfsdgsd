@@ -1,0 +1,1 @@
+web:sh -c 'cd / && gunicorn mysite.wsgi'
